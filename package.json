@@ -1,0 +1,23 @@
+{
+  "name": "comandos-basicos",
+  "version": "1.0.0",
+  "description": "- lista 1\r - lista 1\r - lista 1\r - lista 1\r - lista 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluuweb/comandos-basicos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluuweb/comandos-basicos/issues"
+  },
+  "homepage": "https://github.com/bluuweb/comandos-basicos#readme",
+  "dependencies": {
+    "firebase": "^9.9.2"
+  }
+}
